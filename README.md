@@ -1,11 +1,15 @@
-### Hi there, Im Anton ! 👋
-
-
+# Hi there, Im Anton ! 👋
+Here you can find out some information about me!
+## Education and courses
+- Graduate of the Moscow International University with a degree in State and Municipal Administration 👨‍🎓
+- Completed courses from Yandex on the topic "SQL for data analysis"📉
+- Completed courses from Netology on the topic "Python for data analysis"🐍
+- Сompleting courses from Yandex in the direction of "Data Science Specialist"🌎
 
 ## I'm a Data Analyst, and junior Data Scientist!
-- 🔭
-- 🥅 
-- ⚡ 
+- 🏙️ Worked in the government of the Moscow Region, in the IT department💻
+- 🔭 About me: I love sports, in particular boxing🥊 and surfing🏄‍♂️
+- 🐶 Happy owner of an Amstaff 
 
 ### Connect with me:
 [<img align="left" alt="opa_oz | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
