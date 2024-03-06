@@ -29,5 +29,5 @@
 ---
 
 
-[linkedin]: https://www.telegram.com/in/The1enin/
+[telegram]:  https://t.me/The1enin/
 [instagram]: https://www.instagram.com/The1enin/
