@@ -7,9 +7,10 @@ Here you can find out some information about me!
 - Сompleting courses from Yandex in the direction of "Data Science Specialist"🌎
 
 ### I'm a Data Analyst, and junior Data Scientist!
+- 🏛️ Now I work in the Moscow government as a data analyst📊
 - 🏙️ Worked in the government of the Moscow Region, in the IT department💻
 - 🔭 About me: I love sports, in particular boxing🥊 and surfing🏄‍♂️
-- 🐶 Happy owner of an Amstaff 
+- 🏡 Happy owner of an Amstaff🐶 
 
 ### Connect with me:
 [<img align="left" alt="opa_oz | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
